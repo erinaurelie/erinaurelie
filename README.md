@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on any project at all
-- 📫 How to reach me <a href="https://www.instagram.com/swe.erin/">swe.erin</a> on Instagram
+- 📫 How to reach me <a href="https://www.instagram.com/erinaurelie/">erinaurelie</a> on Instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favourite book is the Bible!
 
